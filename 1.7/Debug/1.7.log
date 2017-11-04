@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\k3sh\source\repos\оаип 8\1.7\source.cpp(5): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+  1.7.vcxproj -> c:\users\k3sh\source\repos\ОАИП 8\Debug\1.7.exe
+  1.7.vcxproj -> c:\users\k3sh\source\repos\ОАИП 8\Debug\1.7.pdb (Partial PDB)

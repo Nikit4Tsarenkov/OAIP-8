@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\k3sh\source\repos\оаип 8\3.7\source.cpp(24): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  3.7.vcxproj -> C:\Users\k3sh\source\repos\ОАИП 8\Debug\3.7.exe
+  3.7.vcxproj -> C:\Users\k3sh\source\repos\ОАИП 8\Debug\3.7.pdb (Partial PDB)
