@@ -34,3 +34,6 @@ void rootCount(int a, int b, int c) {
 	 else
 		 return 0;
  }
+
+
+Nikita Loh
