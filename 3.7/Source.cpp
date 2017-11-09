@@ -36,4 +36,4 @@ void rootCount(int a, int b, int c) {
  }
 
 
-Nikita Loh
+
